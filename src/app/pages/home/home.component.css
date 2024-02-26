@@ -1,0 +1,54 @@
+.cab {
+  background-color: #B4F9F9;
+  min-height: 220px;
+  width:absolute;
+  padding-bottom: 15px;
+}
+
+.logos {
+  margin-left: 30px;
+  max-width: 360px;
+}
+
+.link {
+  font-family: "Kodchasan";
+  margin: 0px 20px;
+  color: #606060;
+}
+
+.logo .link {
+  width: 50%;
+}
+
+.frase {
+  font-family: "Jockey One";
+  text-align: center;
+  color: #047177;
+}
+
+.text-intro {
+  font-family: "Kotta One";
+  text-align: center;
+  color: #3c3d3d;
+}
+
+.intro {
+  max-width: 50%;
+  padding: 20px 0px;
+}
+
+.img-intro {
+  max-width: 50%;
+}
+
+.barra {
+  background-color: #07A5AF;
+}
+
+.text-barra {
+  font-family: "Jockey One";
+  color: #F0FEFF;
+}
+
+
+
