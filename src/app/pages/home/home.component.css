@@ -5,6 +5,10 @@
   padding-bottom: 15px;
 }
 
+.img {
+  max-width: 100%;
+}
+
 .logos {
   margin-left: 30px;
   max-width: 360px;
@@ -33,12 +37,12 @@
 }
 
 .intro {
-  max-width: 50%;
+  width: 50%;
   padding: 20px 0px;
 }
 
 .img-intro {
-  max-width: 50%;
+  width: 50%;
 }
 
 .barra {
@@ -49,6 +53,4 @@
   font-family: "Jockey One";
   color: #F0FEFF;
 }
-
-
 
