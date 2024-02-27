@@ -1,0 +1,21 @@
+.cab {
+  background-color: #B4F9F9;
+  min-height: 220px;
+  width:absolute;
+  padding-bottom: 15px;
+}
+
+.img {
+  max-width: 8%;
+}
+
+.logos {
+  margin-left: 30px;
+  max-width: 360px;
+}
+
+.link {
+  font-family: "Kodchasan";
+  margin: 0px 20px;
+  color: #606060;
+}
